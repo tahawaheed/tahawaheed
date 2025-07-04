@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23064
-Fork on GitHub
-7760
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Taha Waheed</h1>
 <h3 align="center">Machine Learning & Data Science enthusiast with hands-on experience in web and mobile app development .</h3>
 
