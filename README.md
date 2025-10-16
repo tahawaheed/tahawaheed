@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **wtahawaheed@gmail.com**
 
-- ⚡ Fun fact **I started with Desinging and Visuals in Photoshop/Illustrator before I touched code — and still love visual design! 🖌️**
+- ⚡ Fun fact **I started with Designing and Visuals in Photoshop/Illustrator before I touched code — and still love visual design! 🖌️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
